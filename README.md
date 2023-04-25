@@ -1,4 +1,6 @@
 # HENRY COMMIT CURSO FULLSTACK
+Archivo 2 . cambio de origin git remote add origin https://github.com/Colombiantechnology/HenryPrueba2.git
+y cargado en github
 NOMBRE: FRANKLIM DE JESUS MUÑOZ VALVERDE
 Un commit no es más que una captura instantánea de los cambios preparados en ese momento del proyecto. Las instantáneas confirmadas pueden considerarse como versiones "seguras" de un proyecto.
 A continuación de compartimos los comandos más usados con git:
